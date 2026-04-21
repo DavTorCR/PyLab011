@@ -57,7 +57,7 @@ print('hello world.')
 # method is inside of an object class definition.
 # ome terms to understand
 # 4
-
+# 3 POLY MORPHISM
 # 4 inheritance
 
 
@@ -79,6 +79,10 @@ print('hello world.')
 print("This is the start of the Python Lab 11; ")
 
 "we are building a mind map today!"
+
+"using objects and using mermaid live."
+
+"objects inside objects are called composed objects"
 
 
 
